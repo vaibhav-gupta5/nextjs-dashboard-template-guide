@@ -167,7 +167,7 @@ For developers seeking clean code and easy integration, **DashNext** is an excel
 
 ### 1. What is a Next.js admin dashboard template?
 
-A **[Next.js admin dashboard template](https://www.wrappixel.com/templates/category/nextjs-dashboard/)** is a pre-built UI structure that includes all the necessary components and functionalities for creating an admin panel in a Next.js application. These templates save developers time by providing reusable, customizable, and performance-optimized building blocks.
+A **[Nextjs dashboard template](https://www.wrappixel.com/templates/category/nextjs-templates/)** is a pre-built UI structure that includes all the necessary components and functionalities for creating an admin panel in a Next.js application. These templates save developers time by providing reusable, customizable, and performance-optimized building blocks.
 
 ### 2. Why should I choose a Next.js dashboard template?
 
