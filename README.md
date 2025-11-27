@@ -1,3 +1,7 @@
+## ⭐️ Give this repository a star if you found it useful!
+If you have a template to recommend or want to contribute, feel free to fork this repository or open an issue.
+---
+
 # Best Nextjs Admin Dashboard Templates for Developers
 
 Are you looking for a modern, efficient, and user-friendly admin dashboard for your Next.js project, you're in the right place. In this repo, we’ll take you through the top 10 **[Nextjs admin dashboard templates](https://www.wrappixel.com/templates/category/nextjs-templates/)** that are not only high-performing but also developer-friendly. These templates come with a variety of features, including AI capabilities, responsive design, and a clean interface, making them the perfect choice for any professional project.
@@ -178,6 +182,3 @@ Choosing a **[Next.js template](https://adminmart.com/templates/nextjs/)** allow
 Yes, all of the Next.js templates mentioned in this repo are highly customizable. They are designed with flexibility in mind, allowing developers to easily tweak the UI elements, layouts, and components to match their project's needs.
 
 ---
-
-## ⭐️ Give this repository a star if you found it useful!
-If you have a template to recommend or want to contribute, feel free to fork this repository or open an issue.
